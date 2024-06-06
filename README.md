@@ -70,23 +70,23 @@ To play the Sudoku game:
 **Project Structure**
 A brief overview of the project's folder structure:
 
-sudoku-game/ 
-├── public/ 
-│ └── favicon.ico 
-├── src/ 
-│ ├── assets/ 
-│ ├── components/ 
-│ ├── route/ 
-│ ├── stores/ 
-│ ├── views/ 
-│ ├── App.vue 
-│ ├── main.js 
-├── .gitignore 
-├── package.json 
-├── README.md 
-├── vite.config.js 
-├── index.html 
-├── tailwind.config.js 
+sudoku-game/<br /> 
+├── public/ <br />
+│ └── favicon.ico <br />
+├── src/ <br />
+│ ├── assets/ <br />
+│ ├── components/<br /> 
+│ ├── route/ <br />
+│ ├── stores/ <br />
+│ ├── views/ <br />
+│ ├── App.vue <br />
+│ ├── main.js <br />
+├── .gitignore <br />
+├── package.json <br />
+├── README.md <br />
+├── vite.config.js <br />
+├── index.html <br />
+├── tailwind.config.js <br />
 └── ... 
  
 **Available Scripts**
