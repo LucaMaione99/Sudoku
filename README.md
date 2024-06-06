@@ -71,39 +71,22 @@ To play the Sudoku game:
 A brief overview of the project's folder structure:
 
 sudoku-game/ 
-
 ├── public/ 
-
 │ └── favicon.ico 
-
 ├── src/ 
-
 │ ├── assets/ 
-
 │ ├── components/ 
-
 │ ├── route/ 
-
 │ ├── stores/ 
-
 │ ├── views/ 
-
 │ ├── App.vue 
-
 │ ├── main.js 
-
 ├── .gitignore 
-
 ├── package.json 
-
 ├── README.md 
-
 ├── vite.config.js 
-
 ├── index.html 
-
 ├── tailwind.config.js 
-
 └── ... 
  
 **Available Scripts**
