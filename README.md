@@ -52,7 +52,8 @@ Make sure you have the following software installed:
         npm install
 
 3.  **Start the development server:**
-    npm run dev
+
+        npm run dev
 
 ### Usage
 
@@ -69,25 +70,25 @@ To play the Sudoku game:
 **Project Structure**
 A brief overview of the project's folder structure:
 
-sudoku-game/
-├── public/
-│ └── favicon.ico
-├── src/
-│ ├── assets/
-│ ├── components/
-│ ├── route/
-│ ├── stores/
-│ ├── views/
-│ ├── App.vue
-│ ├── main.js
-├── .gitignore
-├── package.json
-├── README.md
-├── vite.config.js
-├── index.html
-├── tailwind.config.js
-└── ...
-
+sudoku-game/ 
+├── public/ 
+│ └── favicon.ico 
+├── src/ 
+│ ├── assets/ 
+│ ├── components/ 
+│ ├── route/ 
+│ ├── stores/ 
+│ ├── views/ 
+│ ├── App.vue 
+│ ├── main.js 
+├── .gitignore 
+├── package.json 
+├── README.md 
+├── vite.config.js 
+├── index.html 
+├── tailwind.config.js 
+└── ... 
+ 
 **Available Scripts**
 
 -   npm run dev: Start the development server.
@@ -106,4 +107,3 @@ Contributions are welcome! Please follow these steps:
 6. Create a new Pull Request.
 
 Please ensure your code follows the project's coding standards and passes all linting checks.
-
